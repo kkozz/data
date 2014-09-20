@@ -1,4 +1,11 @@
-data
+# I start reading the datas in the right directory
+# merge test and training dataset
+# make readable features
+# get only mean and std
+# add last two columns
+# add column names
+# remove the subject and activity column
+# write file.txt
 
 
 
